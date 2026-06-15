@@ -19,9 +19,6 @@ This project implements a predictive model to forecast student marks based on ke
 - [Model Details](#model-details)
 - [Dataset](#dataset)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Features
@@ -182,5 +179,5 @@ student-performance-predictor/
 ## Author
 **Bhagyasri**
 - B.Tech Student | AI & ML Enthusiast
-- GitHub: [@BhagyasriPasupuleti]https://github.com/BhagyasriPasupuleti
+- GitHub: https://github.com/BhagyasriPasupuleti
 ---
